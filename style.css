@@ -30,3 +30,9 @@ body{
 #volume{
     font-size: 20px;
 }
+#play_button{
+    font-size: 17px;
+}
+canvas{
+    border: 8px double white;
+}
