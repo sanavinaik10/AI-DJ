@@ -14,3 +14,6 @@ function draw(){
 function play_song(){
     song.play();
 }
+function stop_song(){
+    song.stop();
+}

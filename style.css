@@ -33,6 +33,9 @@ body{
 #play_button{
     font-size: 17px;
 }
+#stop_button{
+    font-size: 17px;
+}
 canvas{
     border: 8px double white;
 }
